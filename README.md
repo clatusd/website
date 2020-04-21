@@ -2,6 +2,4 @@
 
 # hello
 
-#example
-
-# updatin readme hi
+# haha
